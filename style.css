@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.author{
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
